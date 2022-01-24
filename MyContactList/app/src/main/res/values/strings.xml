@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Contact List</string>
+    <string name="todo">TODO</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact:</string>
+</resources>
